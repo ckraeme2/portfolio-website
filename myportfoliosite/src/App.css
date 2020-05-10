@@ -1,0 +1,107 @@
+.header-color {
+  background: #000046;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.landing-grid{
+  background: #000046;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #1CB5E0, #000046);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #1CB5E0, #000046); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.avatar-img{
+  height: 250px;
+  padding-top: 0em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.banner-text{
+  color: rgba(0,0,0,0.4);
+  width: 75%;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.banner-text h1 {
+  font-size: 44px;
+  text-align: center;
+  font-weight: bold;
+  color: rgba(255,255,255,1);
+}
+
+
+.banner-text p {
+  color: rgba(255,255,255,1);
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+}
+
+.social-links{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i{
+  color: white;
+  font-size: 5em;
+  padding: 8px;
+}
+
+.resume-button{
+  position: relative;
+  top: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 12%;
+  margin: auto;
+  color: white;
+  padding-bottom: 5em;
+}
+
+.resume-button button{
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.about-grid{
+  background: #536976;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.nd-img{
+  height: 250px;
+  padding-top: 0em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20%;
+}
+
+.about-header{
+  font-size: 44px;
+  text-align: center;
+  font-weight: bold;
+  color: rgba(212,175,55,1);
+}
+
+.about-body{
+  font-size: 1px;
+  color: rgba(212,175,55,1);
+  text-align: center;
+}
